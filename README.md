@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Kishan3799/nft-preview-card-component-main](https://github.com/Kishan3799/nft-preview-card-component-main)
+- Live Site URL: [https://incredible-snickerdoodle-b5307e.netlify.app/](https://incredible-snickerdoodle-b5307e.netlify.app/)
 
 ## My process
 
